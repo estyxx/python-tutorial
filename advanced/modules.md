@@ -487,8 +487,6 @@ section at the bottom.
 - Python comes with many modules, and we can install even more modules
     if we want to.
 
-**TODO:** exercises
-
 ***
 
 

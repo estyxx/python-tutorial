@@ -417,5 +417,5 @@ print("You entered " + word + ".")
 ***
 
 
-[Previous](exceptions.md) | [Next](namded_tuples.md) |
+[Previous](exceptions.md) | [Next](named_tuples.md) |
 [List of contents](../README.md#basics)

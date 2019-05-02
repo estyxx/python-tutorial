@@ -517,7 +517,6 @@ while True:
     print(numbers)
     ```
 
-The answers are [here](answers.md#loops).
 
 ***
 

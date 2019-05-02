@@ -312,7 +312,6 @@ you are asked to "fix code", feel free to add missing blank lines.
     the user entered the correct password, a wrong password, or nothing
     at all by pressing Enter without typing anything.
 
-The answers are [here](answers.md#if-else-and-elif).
 
 ***
 

@@ -444,8 +444,6 @@ else:
         print("I don't know you.")
     ```
 
-The answers are [here](answers.md#lists-and-tuples).
-
 ***
 
 

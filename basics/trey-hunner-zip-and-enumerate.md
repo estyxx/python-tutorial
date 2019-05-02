@@ -131,7 +131,6 @@ Read it now, then come back here and do the exercises.
     26 Z z
     ```
 
-The answers are [here](answers.md).
 
 ***
 

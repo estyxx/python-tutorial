@@ -85,15 +85,10 @@ than complex*.
 ## Frequently asked questions
 
 
-## Authors
+## Special thanks
 
-I'm Akuli and I have written most of this tutorial, but these people
-have helped me with it:
-- [SpiritualForest](https://github.com/SpiritualForest): Lots of typing
-    error fixes.
-- [theelous3](https://github.com/theelous3): Small improvements and fixes.
+Thanks to Akuli who wrote the most of this tutorial
 
 ***
-
 
 [List of contents](./README.md#list-of-contents)

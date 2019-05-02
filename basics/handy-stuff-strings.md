@@ -425,7 +425,6 @@ ValueError: could not convert string to float: 'hello'
     print(message, "!!!")
     ```
 
-The answers are [here](answers.md#handy-stuff-strings).
 
 ***
 
