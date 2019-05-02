@@ -64,7 +64,7 @@ techniques just because you know how to use them.** Prefer the simple
 techniques from the Basics part instead when possible. REMEMBER: *Simple is better
 than complex*.
 
-1. [Modules](advances/modules.md)
+1. [Modules](advanced/modules.md)
 2. [Exceptions](advanced/exceptions.md)
 3. [Classes](advanced/classes.md)
 4. [NamedTuples](advanced/named_tuples.md)
