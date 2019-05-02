@@ -13,19 +13,16 @@ techniques just because you know how to use them.** Prefer the simple
 techniques from the Basics part instead when possible. Simple is better
 than complex.
 
-1. [Handy data types](datatypes.md)
-2. [Advanced stuff with functions](functions.md)
-3. [Magic methods](magicmethods.md)
-4. [Iterables, iterators and generators](iters.md)
+1. [Modules](advances/modules.md)
+2. [Exceptions](advanced/exceptions.md)
+3. [Classes](advanced/classes.md)
+4. [NamedTuples](advanced/named_tuples.md)
+5. [Handy data types](advanced/datatypes.md)
+6. [Advanced stuff with functions](advanced/functions.md)
+7. [Magic methods](advanced/magicmethods.md)
+8. [Iterables, iterators and generators](advanced/iters.md)
 
 ***
 
-If you have trouble with this tutorial please [tell me about
-it](../contact-me.md) and I'll make this tutorial better. If you
-like this tutorial, please [give it a
-star](../README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
-
-You may use this tutorial freely at your own risk. See
-[LICENSE](../LICENSE).
 
 [List of contents](../README.md#list-of-contents)

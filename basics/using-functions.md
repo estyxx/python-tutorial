@@ -214,6 +214,39 @@ color, so you don't need to worry about doing this accidentally.
 Exit out of Python and start it again, and `print("Hello World!")`
 should work normally.
 
+## Exercises
+
+
+- Write a Python function to find the Max of three numbers.
+
+
+- Write a Python function to sum all the numbers in a given list.
+Sample List : (8, 2, 3, 0, 7)
+Expected Output : 20
+
+
+- Write a Python function that accepts a string and calculate the number of upper case letters and lower case letters.
+Sample String : 'The quick Brow Fox'
+Expected Output : 
+No. of Upper case characters : 3
+No. of Lower case Characters : 12
+
+
+- Write a function named right_justify that takes a string named s as a parameter and prints the string with enough l
+eading spaces so that the last letter of the string is in column 70 of the display.
+    [] right_justify('allen')
+    []                                                                 allen
+
+
+- Write a Python function to check whether a number is perfect or not.
+According to Wikipedia : In number theory, a perfect number is a positive integer that is equal to the sum of its proper
+positive divisors, that is, the sum of its positive divisors excluding the number itself (also known as its aliquot 
+sum). Equivalently, a perfect number is a number that is half the sum of all of its positive divisors 
+(including itself).
+Example : The first perfect number is 6, because 1, 2, and 3 are its proper positive divisors, and 1 + 2 + 3 = 6. 
+Equivalently, the number 6 is equal to half the sum of all its positive divisors: ( 1 + 2 + 3 + 6 ) / 2 = 6. 
+The next perfect number is 28 = 1 + 2 + 4 + 7 + 14. This is followed by the perfect numbers 496 and 8128.
+
 ## Summary
 
 - `function()` calls a function without any arguments, and
@@ -228,13 +261,6 @@ should work normally.
 
 ***
 
-If you have trouble with this tutorial please [tell me about
-it](../contact-me.md) and I'll make this tutorial better. If you
-like this tutorial, please [give it a
-star](../README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
-
-You may use this tutorial freely at your own risk. See
-[LICENSE](../LICENSE).
 
 [Previous](variables.md) | [Next](editor-setup.md) |
 [List of contents](../README.md#basics)

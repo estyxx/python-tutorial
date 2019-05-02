@@ -312,17 +312,9 @@ you are asked to "fix code", feel free to add missing blank lines.
     the user entered the correct password, a wrong password, or nothing
     at all by pressing Enter without typing anything.
 
-The answers are [here](answers.md#if-else-and-elif).
 
 ***
 
-If you have trouble with this tutorial please [tell me about
-it](../contact-me.md) and I'll make this tutorial better. If you
-like this tutorial, please [give it a
-star](../README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
-
-You may use this tutorial freely at your own risk. See
-[LICENSE](../LICENSE).
 
 [Previous](editor-setup.md) | [Next](handy-stuff-strings.md) |
 [List of contents](../README.md#basics)

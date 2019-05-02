@@ -1,4 +1,4 @@
-# Python programming tutorial
+# Python programming tutorial @ PyCon X Beginner's Day
 
 This is a concise Python 3 programming tutorial for people who think
 that reading is boring. I try to show everything with simple code
@@ -7,12 +7,13 @@ words. If you have never programmed before click
 [here](basics/what-is-programming.md) to find out what programming is
 like and get started.
 
-This tutorial is aimed at people with no programming experience at all
-or very little programming experience. If you have programmed a lot in
+This tutorial is composed in a basic part, aimed at people with no programming 
+experience at all or very little programming experience and an advance one for people
+who want to learn more about python. If you have programmed a lot in
 the past using some other language you may want to read [the official
-tutorial](https://docs.python.org/3/tutorial/) instead.
+tutorial](https://docs.python.org/3/tutorial/) also.
 
-You can use Python 3.3 or any newer Python with this tutorial. **Don't
+You can use Python 3.6 or any newer Python with this tutorial. **Don't
 use Python 2.** If you write a Python 2 program now someone will need to
 convert it to Python 3 later, so it's best to just write Python 3 to
 begin with. Python 3 code will work just fine in Python 4, so you don't
@@ -47,10 +48,9 @@ to learn more about whatever you want after studying it.
 15. [Writing a larger program](basics/larger-program.md)
 16. [What is true?](basics/what-is-true.md)
 17. [Files](basics/files.md)
-18. [Modules](basics/modules.md)
-19. [Exceptions](basics/exceptions.md)
-20. [Classes](basics/classes.md)
-21. [Docstrings](basics/docstrings.md)
+18. [Docstrings](basics/docstrings.md)
+
+
 
 ### Advanced
 
@@ -61,13 +61,18 @@ without these things.
 
 You can experient with these things freely, but please **don't use these
 techniques just because you know how to use them.** Prefer the simple
-techniques from the Basics part instead when possible. Simple is better
-than complex.
+techniques from the Basics part instead when possible. REMEMBER: *Simple is better
+than complex*.
 
-1. [Handy data types](advanced/datatypes.md)
-2. [Advanced stuff with functions](advanced/functions.md)
-3. [Magic methods](advanced/magicmethods.md)
-4. [Iterables, iterators and generators](advanced/iters.md)
+1. [Modules](advances/modules.md)
+2. [Exceptions](advanced/exceptions.md)
+3. [Classes](advanced/classes.md)
+4. [NamedTuples](advanced/named_tuples.md)
+5. [Handy data types](advanced/datatypes.md)
+6. [Advanced stuff with functions](advanced/functions.md)
+7. [Magic methods](advanced/magicmethods.md)
+8. [Iterables, iterators and generators](advanced/iters.md)
+
 
 ### Other things this tutorial comes with
 
@@ -79,51 +84,11 @@ than complex.
 
 ## Frequently asked questions
 
-### How can I thank you for writing and sharing this tutorial?
 
-You can star this tutorial. Starring is free for you, but it tells me
-and other people that you like this tutorial.
+## Special thanks
 
-Go [here](https://github.com/Akuli/python-tutorial) if you aren't here
-already and click the "Star" button in the top right corner. You will be
-asked to create a GitHub account if you don't already have one.
-
-### How can I read this tutorial without an Internet connection?
-
-1. Go [here](https://github.com/Akuli/python-tutorial) if you aren't
-    here already.
-2. Click the big green "Clone or download" button in the top right of
-    the page, then click "Download ZIP".
-
-    ![Download ZIP](images/download-me.png)
-
-3. Extract the ZIP and open it. Unfortunately I don't have any more
-    specific instructions because how exactly this is done depends on
-    which operating system you run.
-4. Run `make-html.py` and follow the instructions.
-
-If you have git and you know how to use it, you can also clone the
-repository instead of downloading a zip and extracting it. An advantage
-with doing it this way is that you don't need to download the whole
-tutorial again to get the latest version of it, all you need to do is to
-pull with git and run `make-html.py` again.
-
-## Authors
-
-I'm Akuli and I have written most of this tutorial, but these people
-have helped me with it:
-- [SpiritualForest](https://github.com/SpiritualForest): Lots of typing
-    error fixes.
-- [theelous3](https://github.com/theelous3): Small improvements and fixes.
+Thanks to Akuli who wrote the most of this tutorial
 
 ***
-
-If you have trouble with this tutorial please [tell me about
-it](./contact-me.md) and I'll make this tutorial better. If you
-like this tutorial, please [give it a
-star](./README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
-
-You may use this tutorial freely at your own risk. See
-[LICENSE](./LICENSE).
 
 [List of contents](./README.md#list-of-contents)

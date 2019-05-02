@@ -323,14 +323,51 @@ Running the program might look like this:
 **TODO:** Exercises.
 
 ***
+## Exercises
 
-If you have trouble with this tutorial please [tell me about
-it](../contact-me.md) and I'll make this tutorial better. If you
-like this tutorial, please [give it a
-star](../README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
 
-You may use this tutorial freely at your own risk. See
-[LICENSE](../LICENSE).
+Given the following dictionary:
+```
+inventory = {
+    'gold' : 500,
+    'pouch' : ['flint', 'twine', 'gemstone'],
+    'backpack' : ['xylophone','dagger', 'bedroll','bread loaf']
+}
+```
+
+Try to do the followings:
+1) Add a key to inventory called 'pocket'.
+2) Set the value of 'pocket' to be a list consisting of the strings 'seashell', 'strange berry', and 'lint'.
+3) .sort() the items in the list stored under the 'backpack' key.
+4) Then .remove('dagger') from the list of items stored under the 'backpack' key.
+5) Add 50 to the number stored under the 'gold' key
+
+
+Create 2 new dictionaries called 'prices' and 'stock' using {} format with this values:
+
+    --prices--
+    "banana": 4,
+    "apple": 2,
+    "orange": 1.5,
+    "pear": 3
+    --stock--
+    "banana": 6,
+    "apple": 7,
+    "orange": 1,
+    "pear": 3
+    
+1) Loop through each key in prices. For each key, print out the key along with its price and stock information. 
+   Print the answer in the following format:
+   
+        apple
+        price: 2
+        stock: 0
+        
+2) Let's determine how much money you would make if you sold all of your food:
+    - Create a variable called total and set it to zero.
+    - Loop through the prices dictionaries. For each key in prices, multiply the number in prices by the number in 
+      stock. Print that value into the console and then add it to total.
+    - Finally, outside your loop, print total.
 
 [Previous](trey-hunner-zip-and-enumerate.md) | [Next](defining-functions.md) |
 [List of contents](../README.md#basics)

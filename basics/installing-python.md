@@ -1,11 +1,5 @@
 # Installing Python
 
-If you want to learn to program with Python using this tutorial, you
-need to try out the code examples. You can use a website like
-[repl.it](https://repl.it/languages/python3), but I highly recommend
-installing Python. That way you don't need to open a web browser just
-to write code, and you can work without an Internet connection.
-
 It doesn't matter which operating system you use because Python runs
 great on Windows, Mac OSX, Linux and many other operating systems.
 However, installing and launching Python are done differently on
@@ -31,18 +25,37 @@ Installing Python on Windows is a lot like installing any other program.
 ### Mac OSX
 
 At the time of writing this, Macs don't come with a Python 3 and you
-need to install it yourself. It should be like installing any other
-program, but unfortunately I don't have better instructions because I
-don't have an up-to-date Mac and I have never installed Python on a Mac.
-If you would like to write better instructions, [tell
-me](../contact-me.md).
+need to install it yourself. To install python on your Mac please follow the instruction
+[here](https://docs.python-guide.org/starting/install3/osx/).
 
 ### Linux
 
-You already have Python 3, **there's no need to install anything**. You
-may also have Python 2, but don't try to remove it. Some of your
-programs are probably written in Python 2, so removing Python 2 would
-break them.
+If you have a recent Linux distribution you already have Python 3, 
+**there's no need to install anything**. To check if Python 3 is already on your operating 
+system run: `python --version`.
+
+If you need to install python 3 please follow the istructions behind:
+
+#### Ubuntu/Debian
+
+```
+sudo apt-get update
+sudo apt-get install python3.7
+```
+
+If you’re using another version of Ubuntu (e.g. the latest LTS release), we recommend using the deadsnakes PPA to install Python 3.7:
+```
+$ sudo apt-get install software-properties-common
+$ sudo add-apt-repository ppa:deadsnakes/ppa
+$ sudo apt-get update
+$ sudo apt-get install python3.7
+```
+
+
+#### Fedora/CentOS
+```
+sudo dnf install python3
+```
 
 ## Running Python
 
@@ -77,13 +90,6 @@ Now you should have Python installed, and you should be able run it.
 
 ***
 
-If you have trouble with this tutorial please [tell me about
-it](../contact-me.md) and I'll make this tutorial better. If you
-like this tutorial, please [give it a
-star](../README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
-
-You may use this tutorial freely at your own risk. See
-[LICENSE](../LICENSE).
 
 [Previous](what-is-programming.md) | [Next](getting-started.md) |
 [List of contents](../README.md#basics)
