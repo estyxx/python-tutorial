@@ -212,10 +212,7 @@ if __name__ == '__main__':
     main()
 ```
 
-This is just the beginning. Now [you can](../LICENSE) take your word
-asking program and make your own version of it that suits **your**
-needs. Then you can share it with your friends so they will find it
-useful as well.
+
 
 ## Summary
 
@@ -228,13 +225,6 @@ something else when it's imported.
 
 ***
 
-If you have trouble with this tutorial please [tell me about
-it](../contact-me.md) and I'll make this tutorial better. If you
-like this tutorial, please [give it a
-star](../README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
-
-You may use this tutorial freely at your own risk. See
-[LICENSE](../LICENSE).
 
 [Previous](defining-functions.md) | [Next](what-is-true.md) |
 [List of contents](../README.md#basics)
